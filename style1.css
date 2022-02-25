@@ -1,0 +1,28 @@
+body{
+    border: 3px solid black;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    border: 3px solid red;
+}
+.box1{
+    width: 100px;
+    height: 34px;
+    background: #0D28A6;
+    margin-top: 15px;
+}
+.jumbroto{
+    border: 3px solid rgb(96, 45, 177);
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    padding: 5rem;
+    
+    width: 100%;
+}

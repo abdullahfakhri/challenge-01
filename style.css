@@ -1,0 +1,85 @@
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.container-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 100px;
+}
+.section-nav{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    margin-left: 20rem;
+}
+.box1{
+    width: 100px;
+    height: 34px;
+    background: #0D28A6;
+    margin-top: 15px;
+}
+.photo{
+    width: 36;
+    margin-right: 15;
+}
+.box2{
+    align-items: center;
+    width: 1168px;
+    height: 326px;
+    text-align: center;
+    color: white;
+    background: #0D28A6;
+    border-radius: 13px;
+}
+.car-banner{
+    width: 100%;
+    max-width: 580px;
+    position: absolute;
+    right: 0;
+    top:-20px;
+    z-index: -1;
+}
+.main-corousel{
+    border: 3px solid red;
+    display: flex;
+    flex-direction: row;
+    width: 20rem;
+    height: 20rem;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 38rem;
+}
+.container-sewa{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+/* .container-faq{
+    border: 3px solid rgb(241, 41, 41);
+}
+.container-accrordion{
+    border: 3px solid black;
+    margin-left: 50rem;
+} */
+.card-testi{
+    margin-top: 3rem;
+    background-color: #F1F3FF;
+    border-radius: 10px;
+    gap: 2rem;
+    height: 15rem;
+}
+.image{
+    margin-left: 2rem;
+}
