@@ -83,3 +83,7 @@
 .image{
     margin-left: 2rem;
 }
+.swiper-next:active,
+.swiper-prev:active {
+  background-color: #5cb85f;
+}
